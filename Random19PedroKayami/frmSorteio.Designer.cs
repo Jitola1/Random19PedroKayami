@@ -44,7 +44,7 @@
             // 
             // btnCorform
             // 
-            this.btnCorform.Location = new System.Drawing.Point(371, 101);
+            this.btnCorform.Location = new System.Drawing.Point(567, 12);
             this.btnCorform.Name = "btnCorform";
             this.btnCorform.Size = new System.Drawing.Size(75, 23);
             this.btnCorform.TabIndex = 0;
@@ -56,27 +56,25 @@
             // 
             this.lblValor1.BackColor = System.Drawing.SystemColors.ControlDark;
             this.lblValor1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblValor1.Location = new System.Drawing.Point(68, 139);
+            this.lblValor1.Location = new System.Drawing.Point(173, 135);
             this.lblValor1.Name = "lblValor1";
             this.lblValor1.Size = new System.Drawing.Size(104, 68);
             this.lblValor1.TabIndex = 1;
-            this.lblValor1.Text = "label1";
             this.lblValor1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblValor2
             // 
             this.lblValor2.BackColor = System.Drawing.SystemColors.ControlDark;
             this.lblValor2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblValor2.Location = new System.Drawing.Point(257, 139);
+            this.lblValor2.Location = new System.Drawing.Point(362, 135);
             this.lblValor2.Name = "lblValor2";
             this.lblValor2.Size = new System.Drawing.Size(104, 68);
             this.lblValor2.TabIndex = 3;
-            this.lblValor2.Text = "label1";
             this.lblValor2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(204, 169);
+            this.label1.Location = new System.Drawing.Point(309, 165);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(19, 23);
             this.label1.TabIndex = 4;
@@ -84,7 +82,7 @@
             // 
             // btnJogar
             // 
-            this.btnJogar.Location = new System.Drawing.Point(172, 270);
+            this.btnJogar.Location = new System.Drawing.Point(277, 266);
             this.btnJogar.Name = "btnJogar";
             this.btnJogar.Size = new System.Drawing.Size(86, 56);
             this.btnJogar.TabIndex = 5;
@@ -94,7 +92,7 @@
             // 
             // btnCena
             // 
-            this.btnCena.Location = new System.Drawing.Point(367, 368);
+            this.btnCena.Location = new System.Drawing.Point(472, 364);
             this.btnCena.Name = "btnCena";
             this.btnCena.Size = new System.Drawing.Size(75, 23);
             this.btnCena.TabIndex = 6;
@@ -106,11 +104,10 @@
             // 
             this.lblMega.BackColor = System.Drawing.SystemColors.ControlDark;
             this.lblMega.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMega.Location = new System.Drawing.Point(38, 368);
+            this.lblMega.Location = new System.Drawing.Point(143, 364);
             this.lblMega.Name = "lblMega";
             this.lblMega.Size = new System.Drawing.Size(323, 43);
             this.lblMega.TabIndex = 7;
-            this.lblMega.Text = "label1";
             this.lblMega.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // picFotoJ1
@@ -140,7 +137,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(454, 435);
+            this.ClientSize = new System.Drawing.Size(645, 434);
             this.Controls.Add(this.btnCarregarFoto);
             this.Controls.Add(this.picFotoJ1);
             this.Controls.Add(this.lblMega);
